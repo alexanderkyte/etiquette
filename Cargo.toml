@@ -1,0 +1,8 @@
+[package]
+name = "code-aware-c"
+version = "0.1.0"
+authors = ["Alexander Kyte <alexmkyte@fastmail.com>"]
+
+[dependencies]
+getopts = "0.2"
+rustc-serialize = "0.3"

@@ -1,0 +1,3 @@
+#! /bin/bash
+cargo install
+./target/debug/code-aware-c --db=`pwd`/sample_compilation_commands.json
